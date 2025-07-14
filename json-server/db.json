@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "qwe",
+      "email": "qwe@gmail.com",
+      "balance": 275000,
+      "transactions": [
+        {
+          "id": 101,
+          "packageId": 3,
+          "packageName": "Internet Cepat 15GB",
+          "date": "2025-07-10",
+          "amount": 75000
+        },
+        {
+          "id": 102,
+          "packageId": 2,
+          "packageName": "Internet Hemat 5GB",
+          "date": "2025-06-25",
+          "amount": 30000
+        },
+        {
+          "id": 1752474481587,
+          "packageId": 3,
+          "packageName": "Internet Cepat 15GB",
+          "date": "2025-07-14T06:28:01.587Z",
+          "amount": 75000
+        },
+        {
+          "id": 1752483051896,
+          "packageId": 1,
+          "packageName": "Internet Super Cepat 50GB",
+          "date": "2025-07-14T08:50:51.896Z",
+          "amount": 150000
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "asd",
+      "email": "asd@gmail.com",
+      "balance": 250000,
+      "transactions": []
+    }
+  ],
+  "data_packages": [
+    {
+      "id": "1",
+      "name": "Internet Super Cepat 50GB",
+      "price": 150000,
+      "description": "Koneksi super cepat untuk streaming dan gaming tanpa batas."
+    },
+    {
+      "id": "2",
+      "name": "Internet Hemat 5GB",
+      "price": 30000,
+      "description": "Paket hemat untuk Browse dan social media."
+    },
+    {
+      "id": "3",
+      "name": "Internet Cepat 15GB",
+      "price": 75000,
+      "description": "Kecepatan tinggi untuk kebutuhan kerja dan hiburan."
+    }
+  ]
+}
